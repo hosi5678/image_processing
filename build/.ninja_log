@@ -1,0 +1,19 @@
+# ninja log v5
+280	289	1733834368183475239	sub_dir/libsub_dir.a	8ada3f9a0dd9fbc1
+1	249	1733834368143474599	sub_dir/CMakeFiles/sub_dir.dir/src/getPadding.cpp.o	3b0f13cd2e32521a
+1	243	1733834368139474535	sub_dir/CMakeFiles/sub_dir.dir/src/headerRead.cpp.o	7cb66d9d92229b08
+2	274	1733834368167474983	sub_dir/CMakeFiles/sub_dir.dir/src/writeBMP.cpp.o	ab4623dc53e0fd38
+2	254	1733834368147474663	sub_dir/CMakeFiles/sub_dir.dir/src/initialize.cpp.o	6013cc069e9e50a1
+2	279	1733834368175475111	sub_dir/CMakeFiles/sub_dir.dir/src/readBMP.cpp.o	62b7aecd3120749b
+315	347	1733834368239476135	main	7463c1c5a6b0cd4e
+1	315	1733834368207475623	CMakeFiles/main.dir/main.cpp.o	1ac1374ef794bfd6
+1	6	1733834367899470692	sub_dir/CMakeFiles/sub_dir.dir/src/dummy.cpp.o	f189fa802f7f9f2c
+0	5	1733834618303423119	sub_dir/CMakeFiles/sub_dir.dir/src/dummy.cpp.o	f189fa802f7f9f2c
+1	248	1733834618547426924	sub_dir/CMakeFiles/sub_dir.dir/src/getPadding.cpp.o	3b0f13cd2e32521a
+1	252	1733834618551426986	sub_dir/CMakeFiles/sub_dir.dir/src/headerRead.cpp.o	7cb66d9d92229b08
+1	257	1733834618555427048	sub_dir/CMakeFiles/sub_dir.dir/src/initialize.cpp.o	6013cc069e9e50a1
+1	266	1733834618563427173	sub_dir/CMakeFiles/sub_dir.dir/src/writeBMP.cpp.o	ab4623dc53e0fd38
+1	308	1733834618607427859	sub_dir/CMakeFiles/sub_dir.dir/src/readBMP.cpp.o	62b7aecd3120749b
+308	318	1733834618615427984	sub_dir/libsub_dir.a	8ada3f9a0dd9fbc1
+0	320	1733834618619428047	CMakeFiles/main.dir/main.cpp.o	1ac1374ef794bfd6
+321	354	1733834618651428545	main	7463c1c5a6b0cd4e

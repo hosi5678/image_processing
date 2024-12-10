@@ -1,0 +1,7 @@
+/home/user/img_cpp/build/CMakeFiles/main.dir
+/home/user/img_cpp/build/CMakeFiles/run_main.dir
+/home/user/img_cpp/build/CMakeFiles/edit_cache.dir
+/home/user/img_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/user/img_cpp/build/sub_dir/CMakeFiles/sub_dir.dir
+/home/user/img_cpp/build/sub_dir/CMakeFiles/edit_cache.dir
+/home/user/img_cpp/build/sub_dir/CMakeFiles/rebuild_cache.dir

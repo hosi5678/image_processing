@@ -1,0 +1,70 @@
+.
+├── CMakeLists.txt
+├── bmp_files
+│   ├── cap1-01a.bmp
+│   ├── cap1-01b.bmp
+│   ├── cap1-01c.bmp
+│   ├── cap1-01d.bmp
+│   └── out.bmp
+├── build
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.27.4
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── CMakeCCompilerId.c
+│   │   │   │   ├── a.out
+│   │   │   │   └── tmp
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │       ├── a.out
+│   │   │       └── tmp
+│   │   ├── CMakeConfigureLog.yaml
+│   │   ├── TargetDirectories.txt
+│   │   ├── cmake.check_cache
+│   │   ├── main.dir
+│   │   │   └── main.cpp.o
+│   │   ├── pkgRedirects
+│   │   └── rules.ninja
+│   ├── build.ninja
+│   ├── cmake_install.cmake
+│   ├── compile_commands.json
+│   ├── main
+│   └── sub_dir
+│       ├── CMakeFiles
+│       │   └── sub_dir.dir
+│       │       └── src
+│       │           ├── dummy.cpp.o
+│       │           ├── getPadding.cpp.o
+│       │           ├── headerRead.cpp.o
+│       │           ├── initialize.cpp.o
+│       │           ├── readBMP.cpp.o
+│       │           └── writeBMP.cpp.o
+│       ├── cmake_install.cmake
+│       └── libsub_dir.a
+├── cap1-01a.bmp
+├── main.cpp
+├── out.bmp
+├── run.sh
+├── sub_dir
+│   ├── CMakeLists.txt
+│   ├── include
+│   │   ├── BITMAPHEADER.hpp
+│   │   ├── image.hpp
+│   │   ├── pixels.hpp
+│   │   └── vec2d.hpp
+│   └── src
+│       ├── dummy.cpp
+│       ├── getPadding.cpp
+│       ├── headerRead.cpp
+│       ├── initialize.cpp
+│       ├── readBMP.cpp
+│       └── writeBMP.cpp
+├── tree.txt
+└── valgrind.log
+
+18 directories, 50 files

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/user/img_cpp/build",
+  "command": "/usr/bin/g++-11 -I/home/user/img_cpp/sub_dir/./include -g -Wall -Wextra -O2 -pipe -march=native -funroll-loops -fforce-addr -msse -msse2 -msse3 -m3dnow -mfpmath=sse -fopenmp -o CMakeFiles/main.dir/main.cpp.o -c /home/user/img_cpp/main.cpp",
+  "file": "/home/user/img_cpp/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/user/img_cpp/build",
+  "command": "/usr/bin/g++-11 -g -o sub_dir/CMakeFiles/sub_dir.dir/src/dummy.cpp.o -c /home/user/img_cpp/sub_dir/src/dummy.cpp",
+  "file": "/home/user/img_cpp/sub_dir/src/dummy.cpp",
+  "output": "sub_dir/CMakeFiles/sub_dir.dir/src/dummy.cpp.o"
+}
+]
